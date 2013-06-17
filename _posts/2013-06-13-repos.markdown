@@ -22,3 +22,11 @@ Accessory Repositories
 
 
 
+[libkovan](#)
+[libkovanserial](#)
+[botui](#)
+[kovan-serial](#)
+[kovan-recovery](#)
+[pcompiler](#)
+[libav](#)
+[Qt](#)
