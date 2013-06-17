@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Repositories"
+---
+
+This article is an aggregation of all of the source code repositories from around the web that pertain to the KIPR Link.
+
+Primary Repositories
+====================
+- [libkovan][libkovan] --
+- [libkovanserial][libkovanserial] --
+- [botui][botui] --
+- [kovan-serial][kovan-serial] --
+- [kovan-recovery][kovan-recovery] --
+- [pcompiler][pcompiler] --
+
+Accessory Repositories
+======================
+- [libav][libav] -- used to decode incoming H.264 streams from the AR.Drone
+- [Qt][Qt] -- 
+- 
+
+
+
